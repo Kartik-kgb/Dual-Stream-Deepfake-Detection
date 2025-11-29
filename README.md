@@ -34,3 +34,10 @@ We used the **Deepfake and Real Images** dataset from Kaggle.
 
 ## 🏆 Contribution
 This project demonstrates that in low-data regimes, **adding a new signal modality (Frequency)** is more effective than regularization techniques (Augmentation) for Deepfake detection.
+
+## 🛡️ License & Citation
+
+The code in this repository is licensed under the MIT License. 
+If you use this code or model in your research, **you must cite the following:**
+
+> V, Karthik. (2025). "Dual-Stream Spatial-Frequency Network for Data-Efficient Deepfake Detection." GitHub Repository. https://github.com/YourUsername/Dual-Stream-Deepfake-Detection
